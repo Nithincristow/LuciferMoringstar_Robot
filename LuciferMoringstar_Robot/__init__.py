@@ -35,7 +35,7 @@ HELP = """
 ABOUT = """
 ➥ Name : Lᴜᴄɪғᴇʀ Mᴏʀɪɴɢsᴛᴀʀ                     
     
-➥ Credits : Anooj
+➥ Credits : @Anooj007
 
 ➥ Editing : [Cristow](t.me/cristow666)
 
