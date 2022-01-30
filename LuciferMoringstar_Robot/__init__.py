@@ -43,5 +43,5 @@ ABOUT = """
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Source Code : [Click Me](https://github.com/cristowyt/LuciferMoringstar_Robot)
+➥ Source Code : [Click Me](https://t.me/nokkierrinno)
 """
